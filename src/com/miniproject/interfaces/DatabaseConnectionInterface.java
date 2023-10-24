@@ -1,5 +1,8 @@
 package com.miniproject.interfaces;
 
-public interface DatabaseConnectionInterface { 
+import java.sql.Connection;
 
+public interface DatabaseConnectionInterface {  
+
+	public abstract Connection getConnection();
 }
