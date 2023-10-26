@@ -48,7 +48,7 @@ public class StudentRegistration {
 			            
 			             System.out.println("Resgistered successfully");
 			       
-			            // Handle exceptions
+			            
 			        }
 			       
 			    
